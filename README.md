@@ -1,8 +1,10 @@
-# SQL-challenge
+# Employee-Data-Analysis
 Utilization of SQL to explore employee data
-This repository started out with numerous different csv's that contained past employee data from a company. The csv's were then imported into different tables in a SQL database. Following this, an ERD was constructed in order to visualize and make sense of how the different tables relate to one another. Following this, various queries were run to answer questions about the data. These questions include...
+This repository started out with numerous different csv's that contained past employee data from a company. The csv's were then imported into different tables in a SQL database. Following this, an ERD was constructed in order to visualize and make sense of how the different tables relate to one another. Following this, various queries were run to answer questions about the data. These queries include...
 
 1)List the following details of each employee: employee number, last name, first name, sex, and salary.
+
+![q1.png](EmployeeSQL/images/q1.png)
 
 2) List first name, last name, and hire date for employees who were hired in 1986.
 
